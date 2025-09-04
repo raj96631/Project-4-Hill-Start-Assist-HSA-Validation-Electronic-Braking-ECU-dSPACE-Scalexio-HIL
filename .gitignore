@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# dSPACE / HIL tools
+*.sdf
+*.cfg
+*.cdx
+*.dsx
+*.adp
+*.rbs
+*.sdfx
+*.hws
+*.log
+
+# Excel/Word temporary files
+~$*.docx
+~$*.xlsx
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Screenshots & large binary assets (optional: remove if you want versioned)
+screenshots/
+assets/*.png
+assets/*.jpg
+
+# Reports
+*.pdf
+*.docx
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
