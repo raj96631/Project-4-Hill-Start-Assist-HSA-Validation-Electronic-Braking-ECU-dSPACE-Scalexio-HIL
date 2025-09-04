@@ -43,7 +43,7 @@ assets/*.jpg
 # Reports
 *.pdf
 *.docx
-*.xlsx
+
 
 # IDE
 .vscode/
